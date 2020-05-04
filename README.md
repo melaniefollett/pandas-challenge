@@ -17,9 +17,6 @@ My final report included informative tables breaking down each of the following:
 - Most Popular Items
 - Most Profitable Items
 
-# Tools/Packages Used
-- Pandas
-
 # Final Products
 - Jupyter notebook showing code (HeroesofPymoli.ipynb)
 - Word document of final report of findings (HeroesofPymoliReport.docx)
